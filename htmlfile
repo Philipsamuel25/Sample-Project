@@ -17,9 +17,7 @@ pipeline {
         stage ('Deployment Stage'){
 
             steps{
-                {
                 echo 'Hello England'
-                }
                 }
             }  
         }
